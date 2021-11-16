@@ -1,0 +1,8 @@
+perros 
+gatos
+carrito de compra
+carrusel home
+carrusel footer con marcas
+footer
+cálculo de costos de envíos
+

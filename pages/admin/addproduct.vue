@@ -333,6 +333,7 @@ export default {
       this.table.items.push({ category, subcategory })
       const element = document.getElementById(idHtml)
       element.style.display = 'none'
+      // revisar esta parte no esta funcionando
     },
     removeSubCategory  (id, name) {
     },

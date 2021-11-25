@@ -41,11 +41,21 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    // **********DEV2, agregue sweetalert**********
+    // 'vue-sweetalert2/nuxt',
+    'vue-sweetalert2/nuxt'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
+
+  // Sweetalet configuration
+  sweetalert: {
+    confirmButtonColor: '#3085d6',
+    denyButtonColor: '#d33',
+    cancelButtonColor: '#d33'
+  },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {

@@ -55,9 +55,9 @@ export default {
       light: true,
       themes: {
         light: {
-          primary: '#2B9720',
-          accent: '#1B9AAF',
-          secondary: '#FFAC00',
+          primary: '#23863A',
+          accent: '#77B54C',
+          secondary: '#77B54C',
           independence: '#464655',
           white: '#FFFFFF'
         }

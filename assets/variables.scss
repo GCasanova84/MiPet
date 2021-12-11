@@ -4,8 +4,15 @@
 // $font-size-root: 20px;
 
 $material-light: ( 'text-fields': (
-  'outlined': rgba(255, 172, 0, 1),
-  'outlined-hover': rgba(255, 172, 0, 0.4)
+  'outlined': rgba(119, 181, 76, 1),
+  'outlined-hover': rgba(119, 181, 76, 0.5)
 ));
 
+$heading-font-family: 'Boogaloo', cursive;
 //$text-field-outlined-fieldset-border: 1px solid rgba(255, 172, 0, 1);
+$speed-dial-button-margin: 0px !default;
+$speed-dial-padding: 0px !default;
+$expansion-panel-header-font-size: 0.875rem !default;
+$expansion-panel-header-min-height: 36px !default;
+$expansion-panel-active-header-min-height: 40px !default;
+$expansion-panel-header-padding: 6px 24px !default;
